@@ -24,3 +24,6 @@ It demonstrates how to write efficient queries, use operators, and apply indexin
 1. Clone the repository:
    ```bash
    git clone https://github.com/dvlpernarvin/Mongo_task_solution.git
+
+## LICENSE
+This project is licensed under the MIT License - see the LICENSE file for details.
